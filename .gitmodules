@@ -4,3 +4,6 @@
 [submodule "components/esp-homekit/esp-homekit"]
 	path = components/esp-homekit/esp-homekit
 	url = https://github.com/maximkulkin/esp-homekit.git
+[submodule "components/esp-cjson/esp-cjson"]
+	path = components/esp-cjson/esp-cjson
+	url = https://github.com/maximkulkin/esp-cjson.git
