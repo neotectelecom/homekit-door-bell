@@ -1,3 +1,6 @@
 [submodule "components/esp-wolfssl/esp-wolfssl"]
 	path = components/esp-wolfssl/esp-wolfssl
 	url = https://github.com/maximkulkin/esp-wolfssl.git
+[submodule "components/esp-homekit/esp-homekit"]
+	path = components/esp-homekit/esp-homekit
+	url = https://github.com/maximkulkin/esp-homekit.git
